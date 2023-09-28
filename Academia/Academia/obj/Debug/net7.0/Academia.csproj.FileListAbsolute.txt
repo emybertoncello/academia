@@ -1,0 +1,15 @@
+C:\Users\ebertoncello\source\repos\Academia\Academia\bin\Debug\net7.0\Academia.exe
+C:\Users\ebertoncello\source\repos\Academia\Academia\bin\Debug\net7.0\Academia.deps.json
+C:\Users\ebertoncello\source\repos\Academia\Academia\bin\Debug\net7.0\Academia.runtimeconfig.json
+C:\Users\ebertoncello\source\repos\Academia\Academia\bin\Debug\net7.0\Academia.dll
+C:\Users\ebertoncello\source\repos\Academia\Academia\bin\Debug\net7.0\Academia.pdb
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.csproj.AssemblyReference.cache
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.AssemblyInfoInputs.cache
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.AssemblyInfo.cs
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.csproj.CoreCompileInputs.cache
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.dll
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\refint\Academia.dll
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.pdb
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\Academia.genruntimeconfig.cache
+C:\Users\ebertoncello\source\repos\Academia\Academia\obj\Debug\net7.0\ref\Academia.dll
